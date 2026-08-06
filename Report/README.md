@@ -1,4 +1,3 @@
-##Report
 This folder contains the final report for **Future Interns Cyber Security – Task 2: Phishing Email Detection & Awareness System**.
 
 ## Contents
